@@ -1,0 +1,13 @@
+/* comentarios
+ * conformacion de un archivo css
+ * a traves de reglas y asu vez una regla se conforma de:
+ * selector declaracion y una declaracion se conforma de pares
+ * {propiedad:valor;
+ * propiedad2:valor2;
+ }
+ 
+*/
+
+body{background-color:rgb(125,16,50)}
+
+.titulo{color: rgb(15,15,15); font-size: 200px}

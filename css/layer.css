@@ -1,0 +1,19 @@
+header .logo{height: 100px;}
+.logo{
+    background: url('../imagenes/pw.png')
+    no-repeat
+    10px 10 px /150px 80px;
+}
+
+.titulo {
+    
+    padding-left: 170px;
+}
+
+@media screen and (max-width:768px)
+{
+    .logo{
+        display: none;
+    }
+}
+

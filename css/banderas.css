@@ -1,0 +1,33 @@
+.flag{ /*las propiedades de cada bandera*/
+width: 100px;
+height: 60px;
+background: url(../imagenes/banderas.jpg);
+}
+
+.flag.flag1{
+background-position: 400px 214px;
+}
+
+.flag.flag2{
+background-position: 400px 300px;
+}
+
+.flag.flag3{
+background-position: 300px 300px;
+}
+.flag.flag4{
+background-position: 200px 300px;
+}
+
+.flag.flag5{
+background-position: 100px 214px;
+}
+
+.datos,td,th{
+         border:  1px solid #0F0;
+        border-collapse: collapse;
+      }
+    
+      .datos td:hover{
+        background: #f00;
+      }
